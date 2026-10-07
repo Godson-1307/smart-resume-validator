@@ -1,0 +1,11 @@
+nlp/
+__pycache__/
+*.pyc
+.env
+uploads/
+data/
+*.log
+.pytest_cache/
+node_modules/
+dist/
+build/
